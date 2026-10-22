@@ -1,0 +1,144 @@
+{
+ "entry": {
+  "date": "2026-10-21",
+  "manifests": [
+   {
+    "path": "manifests/2026/10/21/001110-hourly.json",
+    "sha256": "d0bc2a051b863b7faa2c540c64543556951e0c1f65a4f379eaf79f4c85979515"
+   },
+   {
+    "path": "manifests/2026/10/21/005108-daily.json",
+    "sha256": "d6329abf64795d4f1193b37832928048808b03e27eafc1f1e0b623487a0e7fd5"
+   },
+   {
+    "path": "manifests/2026/10/21/005227-economy.json",
+    "sha256": "b0f1d58d553462b5f93db79cf9012384a16be04eae16b22e796968f38a9a82d9"
+   },
+   {
+    "path": "manifests/2026/10/21/005234-aiprices.json",
+    "sha256": "dce066c7a2309869afd6cf087270df0a809df21fdccd67a7ca5fbaf84ec8cdd3"
+   },
+   {
+    "path": "manifests/2026/10/21/005234-sanctions.json",
+    "sha256": "3c10fdc6ba6a3d974237e179463b5b9863bae5e4282258b69e2b6cdaf4833565"
+   },
+   {
+    "path": "manifests/2026/10/21/005235-airetire.json",
+    "sha256": "459f026468f6654b1208bbd11918b4d631e2a3cc6ea9986c3269f69b548aabfc"
+   },
+   {
+    "path": "manifests/2026/10/21/005357-apispecs.json",
+    "sha256": "3b26196f7e4a1bc743a944e4a25390a038648735b931504d0e0cd80eb33e524a"
+   },
+   {
+    "path": "manifests/2026/10/21/005425-webcensus.json",
+    "sha256": "fb707d7c1f4ba61f56ddff098c29f2ad612aaffafd7dab63add87b1cf987f32a"
+   },
+   {
+    "path": "manifests/2026/10/21/011117-packages.json",
+    "sha256": "469d1edde854b51ad5250f84b240c65fc4d6ec844717b71fc5ba09efd3a362b0"
+   },
+   {
+    "path": "manifests/2026/10/21/011537-checks.json",
+    "sha256": "2d2e885fb0d7c264e724fc56a0267dc4f030c920ba762f40979705dd635b24dc"
+   },
+   {
+    "path": "manifests/2026/10/21/011811-hourly.json",
+    "sha256": "59ee025cad12add03a74350bfe346cc5776e4b68f8eabc725639b13f216ed283"
+   },
+   {
+    "path": "manifests/2026/10/21/022109-hourly.json",
+    "sha256": "c1cdd7b0c7beba0afb906aae1c5a25f0e14dc4e40bd16c1b183fa5497692ffd0"
+   },
+   {
+    "path": "manifests/2026/10/21/032105-hourly.json",
+    "sha256": "f5aa48d358ed53910df0cae6dfd84de5278fa37b3819acf7ce77276072fd413d"
+   },
+   {
+    "path": "manifests/2026/10/21/042106-hourly.json",
+    "sha256": "6c7692f5904d3b332133feac64c2f114ed9b83a3032870dc607b0b060d4b3403"
+   },
+   {
+    "path": "manifests/2026/10/21/052108-hourly.json",
+    "sha256": "51c448202f6eeb88d789e12423e0a4dcd7a3b29ccb6c30af7fa55acfd61567d4"
+   },
+   {
+    "path": "manifests/2026/10/21/061718-hourly.json",
+    "sha256": "7d338d1347f8914f25ace81b8b3512f9a2d97b545108c2141b2648837b0fcb14"
+   },
+   {
+    "path": "manifests/2026/10/21/072113-hourly.json",
+    "sha256": "47d85c2be9598342a203bcadd634eed0a8c3a3d4d2091a8db889e1118d636502"
+   },
+   {
+    "path": "manifests/2026/10/21/082104-hourly.json",
+    "sha256": "e38c211585acb22f7529161cfbf22d732e0526c80285bf59e2619490c5426ba4"
+   },
+   {
+    "path": "manifests/2026/10/21/091830-hourly.json",
+    "sha256": "af6a6f231d8af4ae2d645976784fcb7fcbc0c4efd6187be7574bc21de99c85d2"
+   },
+   {
+    "path": "manifests/2026/10/21/102101-hourly.json",
+    "sha256": "f6d72fcdf43a93cdc28403f39b9fdf58532cef484c001cdbf5f270aced404253"
+   },
+   {
+    "path": "manifests/2026/10/21/112121-hourly.json",
+    "sha256": "ddf8ac48de501ab77efab7d7e25746dde6fb905c72990c18f082b72e33e2843d"
+   },
+   {
+    "path": "manifests/2026/10/21/122114-hourly.json",
+    "sha256": "4fbc1d8bdc3aefb1edb87612391558682d225d45a107ff7b5f2eb8b6ec5fe8ca"
+   },
+   {
+    "path": "manifests/2026/10/21/132106-hourly.json",
+    "sha256": "00de93fe70972629bc654fcb9d735d7b3614018d5ebf28c00eb78f22c0a10c89"
+   },
+   {
+    "path": "manifests/2026/10/21/142108-hourly.json",
+    "sha256": "de1c83287890f6cc456a45ac5b52e78164a7eddedde51674c3e2f3b938d4fff3"
+   },
+   {
+    "path": "manifests/2026/10/21/152108-hourly.json",
+    "sha256": "b4e15abc1fba8135a23731b02701924a7b4201ff94b4b7907697da269f287fa7"
+   },
+   {
+    "path": "manifests/2026/10/21/162111-hourly.json",
+    "sha256": "4a9664c9ccdf3baad9e205d5dc38dcc0692794421014d1899fa4b593352ae3b9"
+   },
+   {
+    "path": "manifests/2026/10/21/172116-hourly.json",
+    "sha256": "0d080e4992665d014914db6a73aa7faf1a6f84eea80d6aef8d8b18e123a32fcc"
+   },
+   {
+    "path": "manifests/2026/10/21/182108-hourly.json",
+    "sha256": "82491aa9689c8cfa312429bdc8192b3f201b827073e657fe1c8b5eae850a497f"
+   },
+   {
+    "path": "manifests/2026/10/21/192105-hourly.json",
+    "sha256": "45cb11820ab05e3d7b821e2db8c8d2e3d2dee0066b6e80bbbd4e4fb3af4c339d"
+   },
+   {
+    "path": "manifests/2026/10/21/202105-hourly.json",
+    "sha256": "b094bc75786b482ade820957baf6d6689cd6277856b51a5b46afceced5d79df0"
+   },
+   {
+    "path": "manifests/2026/10/21/212108-hourly.json",
+    "sha256": "958d8ad3111d9ac1ea10705b11a7d1c9aa73e739408627ac1c5008fe3976033b"
+   },
+   {
+    "path": "manifests/2026/10/21/222104-hourly.json",
+    "sha256": "337edaaf172f39a90fe83705d7385baf336b476c8e9a963700531b8a2b38bf18"
+   },
+   {
+    "path": "manifests/2026/10/21/232104-hourly.json",
+    "sha256": "44d93f971f5b88a1be2c895190087a687516e716bc82561beeb70c917bead5f1"
+   }
+  ],
+  "count": 33,
+  "root": "bfae4a886337366ed8cfbf090ca2a2a39c5e053d1eb90c6b6a35400b4a31c150",
+  "created": "2026-10-22T01:09:10Z"
+ },
+ "key_id": "187e49f200625a2f",
+ "signature": "HCuEBd7_mdURhTER9LXTKM2ouRMLbscQX4T5Bdhi6qoB6AXXNhGWfikUdIjP2N3sDzm5VRyiO1f9RY8HATQMCg"
+}
